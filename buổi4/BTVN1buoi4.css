@@ -1,0 +1,95 @@
+.container-fruid{
+    margin: auto;
+    width: 1500px;
+    height: 400px;
+}
+.container{
+    width: 24%;
+    height: 400px;
+    border: 2px solid #0202021f;
+    margin: 0 auto;
+}
+.img{
+    background-image: url("./Frank_Lampard_2017.jpg");
+    background-size: cover;
+    color: seagreen;
+    height: 300px;
+    position: relative;
+}
+.img .sale-money{
+    bottom: 0;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    position: absolute;
+}
+.img .gift{
+    right: 0;
+    bottom: 0;
+    font-size: 20px;
+    background-color: salmon;
+    position: absolute;
+}
+.money{
+    margin-top: 3px;
+    font-size: 20px;
+}
+.money .cost{
+    padding: 9px 0;
+    color: seagreen;
+}
+.money .sale{
+    color: red;
+}
+@media only screen and (min-width: 576px){
+    .container-fruid{
+        margin: auto;
+    width: 1500px;
+    height: 400px;
+}
+.container{
+    width: 24%;
+    height: 400px;
+    border: 2px solid #0202021f;
+    margin: 0 auto;
+    display: inline-block;
+}
+.img{
+    background-image: url("./Frank_Lampard_2017.jpg");
+    background-size: cover;
+    height: 300px;
+    position: relative;
+}
+.img .sale-money{
+    bottom: 0;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    position: absolute;
+}
+.img .gift{
+    right: 0;
+    bottom: 0;
+    font-size: 20px;
+    background-color: salmon;
+    position: absolute;
+}
+.money{
+    margin-top: 3px;
+    font-size: 20px;
+}
+.money .cost{
+    padding: 9px 0;
+}
+.money .sale{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+

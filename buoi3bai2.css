@@ -1,0 +1,13 @@
+.content-fluid{
+    width: 1500px;
+    height: 900px;
+    border: 0%;
+    padding: 0%;
+}
+.content{
+    width: 500px;
+    height: 400px;
+    background-image: url("./frank-lampard-dat-thoa-thuan-tro-thanh-hlv-chelsea-03-.0922.jpg");
+    background-size: cover;
+    border: 1px solid black;
+}

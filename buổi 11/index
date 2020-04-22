@@ -1,0 +1,39 @@
+p : 1 doan
+a : link
+span : 1 cau van
+div: chia khoi
+ul li:  danh
+hr: duong ke
+br: xuong dong
+table tr td : kẻ bảng
+img
+
+<p class="" id="" data="" onclick="" ></p>
+<img src="" />
+
+Form
+    button: type button , submit
+    input: text, password, checkbox, radio, email, date, color
+    select
+    textArea
+
+=================================================================
+CSS
+h1
+.class
+#id
+
+<div class="parent">
+    <h1></h1>
+</div>
+<h1></h1>
+
+.parent,h1 {
+    font-size: 50px
+}
+
+.parent:hover{
+
+}
+
+.p
